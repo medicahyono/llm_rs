@@ -5,3 +5,4 @@ Projeck LLM untuk RS
 
 sumber-sumber:
 https://huggingface.co/BAAI
+https://huggingface.co/BAAI/bge-m3/tree/main : llm multi bahasa
